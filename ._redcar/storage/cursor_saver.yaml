@@ -72,9 +72,6 @@ cursor_positions:
   - :path: app/assets/stylesheets/main.css
     :cursor_offset: 838
     :timestamp: 2014-02-18 01:17:35.768000 -05:00
-  - :path: app/views/layouts/application.html.erb
-    :cursor_offset: 338
-    :timestamp: 2014-02-18 01:19:33.337000 -05:00
   - :path: db/seeds.rb
     :cursor_offset: 2511
     :timestamp: 2014-02-18 01:55:32.866000 -05:00
@@ -108,4 +105,10 @@ cursor_positions:
   - :path: app/views/locations/show.html.erb
     :cursor_offset: 588
     :timestamp: 2014-02-18 02:31:07.114000 -05:00
+  - :path: config/routes.rb
+    :cursor_offset: 713
+    :timestamp: 2014-02-24 17:47:49.169000 -05:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 693
+    :timestamp: 2014-02-24 17:53:23.219000 -05:00
 files_to_retain: 0

@@ -15,10 +15,11 @@
 	</div>
 	<div id="navigation">
 		<ul>
-			<li><a href="#">Home</a></li>
-			<li><a href="/meetings">Meeting</a></li>
-			<li><a href="/locations">Location</a></li>
-			<li><a href="/events">Event</a></li>
+			<li><%= link_to("Events", events_path)%></li>
+      <li><%= link_to("Attendees", attendees_path)%></li>
+      <li><%= link_to("Meetings", meetings_path)%></li>
+			<li><%= link_to("Locations", locations_path)%></li>
+			<li><%= link_to("Sponsors", sponsors_path)%></li>
 		</ul>
 	</div>
 	<div id="content-container">
