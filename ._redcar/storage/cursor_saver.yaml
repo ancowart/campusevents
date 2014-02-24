@@ -1,0 +1,111 @@
+--- 
+cursor_positions: 
+  - :path: db/migrate/20140203224257_create_locations.rb
+    :cursor_offset: 291
+    :timestamp: 2014-02-03 17:42:57.352000 -05:00
+  - :path: app/models/subscription.rb
+    :cursor_offset: 0
+    :timestamp: 2014-02-11 01:06:59.536000 -05:00
+  - :path: app/models/attendee.rb
+    :cursor_offset: 0
+    :timestamp: 2014-02-11 01:06:22.910000 -05:00
+  - :path: db/migrate/20140211053517_add_event_id_to_meetings.rb
+    :cursor_offset: 0
+    :timestamp: 2014-02-11 00:35:17.114000 -05:00
+  - :path: db/migrate/20140211042753_create_attendees.rb
+    :cursor_offset: 0
+    :timestamp: 2014-02-10 23:27:53.659000 -05:00
+  - :path: db/migrate/20140211060421_create_subscriptions.rb
+    :cursor_offset: 0
+    :timestamp: 2014-02-11 01:04:21.646000 -05:00
+  - :path: db/migrate/20140210205412_create_meetings.rb
+    :cursor_offset: 230
+    :timestamp: 2014-02-10 15:54:12.243000 -05:00
+  - :path: db/migrate/20140211053630_add_location_id_to_meetings.rb
+    :cursor_offset: 100
+    :timestamp: 2014-02-11 00:36:30.763000 -05:00
+  - :path: app/models/location.rb
+    :cursor_offset: 92
+    :timestamp: 2014-02-11 00:52:16.470000 -05:00
+  - :path: db/development.sqlite3
+    :cursor_offset: 0
+    :timestamp: 2014-02-11 02:21:09.915000 -05:00
+  - :path: db/test.sqlite3
+    :cursor_offset: 0
+    :timestamp: 2014-02-11 02:02:14.153000 -05:00
+  - :path: db/migrate/20140211055545_create_events_sponsors.rb
+    :cursor_offset: 146
+    :timestamp: 2014-02-11 01:09:15.401000 -05:00
+  - :path: app/models/event.rb
+    :cursor_offset: 146
+    :timestamp: 2014-02-11 00:06:48.139000 -05:00
+  - :path: app/models/meeting.rb
+    :cursor_offset: 110
+    :timestamp: 2014-02-11 02:00:16.111000 -05:00
+  - :path: app/models/sponsor.rb
+    :cursor_offset: 104
+    :timestamp: 2014-02-11 00:53:06.136000 -05:00
+  - :path: app/assets/stylesheets/application.css
+    :cursor_offset: 541
+    :timestamp: 2014-02-17 23:34:39.847000 -05:00
+  - :path: app/views/meetings/_form.html.erb
+    :cursor_offset: 791
+    :timestamp: 2014-02-17 23:44:59.691000 -05:00
+  - :path: app/views/meetings/edit.html.erb
+    :cursor_offset: 0
+    :timestamp: 2014-02-10 15:54:12.328000 -05:00
+  - :path: app/views/meetings/show.html.erb
+    :cursor_offset: 0
+    :timestamp: 2014-02-10 15:54:12.333000 -05:00
+  - :path: app/views/meetings/index.json.jbuilder
+    :cursor_offset: 0
+    :timestamp: 2014-02-10 15:54:12.423000 -05:00
+  - :path: app/controllers/meetings_controller.rb
+    :cursor_offset: 1884
+    :timestamp: 2014-02-18 00:06:25.750000 -05:00
+  - :path: app/controllers/events_controller.rb
+    :cursor_offset: 1783
+    :timestamp: 2014-02-18 00:34:50.729000 -05:00
+  - :path: app/views/meetings/index.html.erb
+    :cursor_offset: 287
+    :timestamp: 2014-02-18 01:05:23.572000 -05:00
+  - :path: app/assets/stylesheets/main.css
+    :cursor_offset: 838
+    :timestamp: 2014-02-18 01:17:35.768000 -05:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 338
+    :timestamp: 2014-02-18 01:19:33.337000 -05:00
+  - :path: db/seeds.rb
+    :cursor_offset: 2511
+    :timestamp: 2014-02-18 01:55:32.866000 -05:00
+  - :path: app/views/events/show.html.erb
+    :cursor_offset: 687
+    :timestamp: 2014-02-18 02:05:01.130000 -05:00
+  - :path: app/views/events/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2014-02-03 17:39:38.621000 -05:00
+  - :path: app/views/events/index.html.erb
+    :cursor_offset: 421
+    :timestamp: 2014-02-18 01:34:00.266000 -05:00
+  - :path: app/views/events/edit.html.erb
+    :cursor_offset: 0
+    :timestamp: 2014-02-03 17:39:38.616000 -05:00
+  - :path: app/views/events/_form.html.erb
+    :cursor_offset: 864
+    :timestamp: 2014-02-18 02:04:25.950000 -05:00
+  - :path: app/views/locations/_form.html.erb
+    :cursor_offset: 356
+    :timestamp: 2014-02-03 17:42:57.473000 -05:00
+  - :path: app/views/locations/edit.html.erb
+    :cursor_offset: 122
+    :timestamp: 2014-02-03 17:42:57.452000 -05:00
+  - :path: app/views/locations/index.html.erb
+    :cursor_offset: 242
+    :timestamp: 2014-02-03 17:42:57.452000 -05:00
+  - :path: app/views/locations/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2014-02-03 17:42:57.462000 -05:00
+  - :path: app/views/locations/show.html.erb
+    :cursor_offset: 588
+    :timestamp: 2014-02-18 02:31:07.114000 -05:00
+files_to_retain: 0
