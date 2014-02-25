@@ -17,3 +17,9 @@
 
 <%= link_to 'Edit', edit_sponsor_path(@sponsor) %> |
 <%= link_to 'Back', sponsors_path %>
+
+<% content_for :sidebar do %>
+
+<%= render(partial: "sponsors_events", object: @sponsor)%>
+
+<% end %>

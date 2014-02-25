@@ -41,7 +41,7 @@
     <tbody>
       <% @location.meetings.where(['start_time > ?', DateTime.now]).limit(5).each do |s| %>
       <tr>
-        <td><%= s.name %></td>
+        <td><%= link_to(s.name, meeting_path(s.id)) %></td>
         <td><%= s.start_time %></td>
         <td><%= s.end_time %></td>
       </tr>

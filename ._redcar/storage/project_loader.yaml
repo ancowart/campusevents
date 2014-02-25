@@ -1,3 +1,5 @@
 --- 
 open_files: 
-  - app/views/locations/show.html.erb
+  - app/views/layouts/application.html.erb
+  - app/views/sponsors/_sponsors_events.html.erb
+  - app/views/sponsors/show.html.erb

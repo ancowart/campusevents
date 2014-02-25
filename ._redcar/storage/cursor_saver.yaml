@@ -54,9 +54,6 @@ cursor_positions:
   - :path: app/views/meetings/edit.html.erb
     :cursor_offset: 0
     :timestamp: 2014-02-10 15:54:12.328000 -05:00
-  - :path: app/views/meetings/show.html.erb
-    :cursor_offset: 0
-    :timestamp: 2014-02-10 15:54:12.333000 -05:00
   - :path: app/views/meetings/index.json.jbuilder
     :cursor_offset: 0
     :timestamp: 2014-02-10 15:54:12.423000 -05:00
@@ -75,21 +72,12 @@ cursor_positions:
   - :path: db/seeds.rb
     :cursor_offset: 2511
     :timestamp: 2014-02-18 01:55:32.866000 -05:00
-  - :path: app/views/events/show.html.erb
-    :cursor_offset: 687
-    :timestamp: 2014-02-18 02:05:01.130000 -05:00
-  - :path: app/views/events/new.html.erb
-    :cursor_offset: 0
-    :timestamp: 2014-02-03 17:39:38.621000 -05:00
   - :path: app/views/events/index.html.erb
     :cursor_offset: 421
     :timestamp: 2014-02-18 01:34:00.266000 -05:00
   - :path: app/views/events/edit.html.erb
     :cursor_offset: 0
     :timestamp: 2014-02-03 17:39:38.616000 -05:00
-  - :path: app/views/events/_form.html.erb
-    :cursor_offset: 864
-    :timestamp: 2014-02-18 02:04:25.950000 -05:00
   - :path: app/views/locations/_form.html.erb
     :cursor_offset: 356
     :timestamp: 2014-02-03 17:42:57.473000 -05:00
@@ -102,13 +90,36 @@ cursor_positions:
   - :path: app/views/locations/new.html.erb
     :cursor_offset: 0
     :timestamp: 2014-02-03 17:42:57.462000 -05:00
-  - :path: app/views/locations/show.html.erb
-    :cursor_offset: 588
-    :timestamp: 2014-02-18 02:31:07.114000 -05:00
   - :path: config/routes.rb
     :cursor_offset: 713
     :timestamp: 2014-02-24 17:47:49.169000 -05:00
+  - :path: app/views/events/_form.html.erb
+    :cursor_offset: 488
+    :timestamp: 2014-02-18 02:04:25.950000 -05:00
+  - :path: app/views/meetings/show.html.erb
+    :cursor_offset: 448
+    :timestamp: 2014-02-24 19:02:10.749000 -05:00
+  - :path: app/views/locations/show.html.erb
+    :cursor_offset: 639
+    :timestamp: 2014-02-24 19:24:56.864000 -05:00
+  - :path: app/views/events/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2014-02-03 17:39:38.621000 -05:00
+  - :path: app/views/events/_event_sponsors.html.erb
+    :cursor_offset: 111
+    :timestamp: 2014-02-24 19:39:39.548000 -05:00
+  - :path: app/views/events/show.html.erb
+    :cursor_offset: 899
+    :timestamp: 2014-02-24 19:40:01.228000 -05:00
+    :selection_offset: 964
+    :block_selection_mode: false
   - :path: app/views/layouts/application.html.erb
-    :cursor_offset: 693
+    :cursor_offset: 647
     :timestamp: 2014-02-24 17:53:23.219000 -05:00
+  - :path: app/views/sponsors/_sponsors_events.html.erb
+    :cursor_offset: 323
+    :timestamp: 2014-02-24 19:43:32.184000 -05:00
+  - :path: app/views/sponsors/show.html.erb
+    :cursor_offset: 204
+    :timestamp: 2014-02-24 19:42:17.379000 -05:00
 files_to_retain: 0
